@@ -1,0 +1,6 @@
+- [ ] Crear un card con la informacion, nombre, pago, totla
+- [ ] Crear el visualizador de la informacion
+- [ ] creador de invoices
+- [ ] visualizador de invoice (uno)
+- [ ] editar el invoice
+- [ ] eliminar el invoice
